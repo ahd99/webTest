@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hd88/webTest/calc"
+	"github.com/ahd99/webTest/calc"
 
 	"rsc.io/quote"
 )

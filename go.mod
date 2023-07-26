@@ -1,4 +1,4 @@
-module hd88/webTest
+module github.com/ahd99/webTest
 
 go 1.20
 
