@@ -9,5 +9,5 @@ func Minus(a int, b int) int {
 }
 
 func calcMsg(s string) string {
-	return "hi " + s
+	return "hi_1 " + s
 }
