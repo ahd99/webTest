@@ -10,5 +10,5 @@ import (
 func SayHaHa() {
 	fmt.Printf("Hello golang\n")
 	fmt.Printf("%s\n", quote.Hello())
-	fmt.Printf("%d\n", calc.Sum(5, 7))
+	fmt.Printf("%d\n", calc.Sum(5, 12))
 }
