@@ -1,4 +1,4 @@
-module github.com/ahd99/webTest/haha
+module github.com/ahd99/webTest
 
 go 1.20
 

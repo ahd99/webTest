@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ahd99/webTest/haha/calc"
+	"github.com/ahd99/webTest/calc"
 
 	"rsc.io/quote"
 )
