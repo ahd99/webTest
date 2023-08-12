@@ -1,4 +1,4 @@
-package main
+package haha
 
 import (
 	"fmt"
@@ -6,10 +6,6 @@ import (
 
 	"rsc.io/quote"
 )
-
-func main() {
-	SayHaHa()
-}
 
 func SayHaHa() {
 	fmt.Printf("Hello golang\n")
