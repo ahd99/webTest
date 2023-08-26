@@ -2,7 +2,7 @@ package haha
 
 import (
 	"fmt"
-	"github.com/ahd99/webTest/calc"
+	"github.com/ahd99/webTest/hoho/calc"
 
 	"rsc.io/quote"
 )
@@ -10,5 +10,5 @@ import (
 func SayHaHa() {
 	fmt.Printf("Hello golang\n")
 	fmt.Printf("%s\n", quote.Hello())
-	fmt.Printf("%d\n", calc.Sum(5, 12))
+	fmt.Printf("%d\n", calc.Sum(5, 100))
 }

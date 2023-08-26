@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ahd99/webTest/calc"
+	"github.com/ahd99/webTest/hoho/calc"
 )
 
 func main() {

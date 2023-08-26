@@ -1,4 +1,4 @@
-module github.com/ahd99/webTest
+module github.com/ahd99/webTest/hoho
 
 go 1.20
 
